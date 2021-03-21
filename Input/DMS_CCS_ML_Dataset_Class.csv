@@ -1,0 +1,414 @@
+﻿m/z,SV_1500,SV_2000,SV_2500,SV_3000,SV_3250,SV_3500,SV_3750,SV_4000,Superclass,Class,Combined_CCS,Compound
+86.1,-0.2,-0.1,0.4,1.9,2.33,3,4.64,8,Organic acids and derivatives,Carboxylic acids and derivatives,110.76,CRG2a
+98.1,0,0.4,1.4,3.2,5.84,8.8,10.66,10,Lipids and lipid-like molecules,Fatty Acyls,111.85,CRG3a
+104.1,-0.86,-1.51,-1.81,-1.27,-0.44,0.86,2.69,5.08,Organic nitrogen compounds,Organonitrogen compounds,111.94,Choline
+100.1,0.1,0.5,1.4,3.4,5.14,7.1,8.86,10,Lipids and lipid-like molecules,Fatty Acyls,113.24,CRG3g
+113,-0.89,-2.07,-3.13,-3.61,-3.55,-3.16,-2.28,-0.77,Organoheterocyclic compounds,Diazines,115.17,Uracil
+112.1,0.3,0.6,1.5,2.7,4.35,6.4,8.2,9.1,Organoheterocyclic compounds,Piperidines,115.56,CRG3i
+111.8,-1.09,-2.46,-3.67,-4.1,-4.04,-3.55,-2.55,-1.06,Organic nitrogen compounds,Organonitrogen compounds,115.73,Histamine
+116.1,0.3,0.9,1.7,3.8,5.29,7.1,9.31,12,Organic acids and derivatives,Carboxylic acids and derivatives,116.07,CRG4b
+114.1,0.3,0.7,1.8,3.8,5.41,7.2,8.84,10,Lipids and lipid-like molecules,Fatty Acyls,116.18,CRG3e
+118,-0.6,-1.17,-1.47,-1.22,-0.68,0.23,1.57,3.39,Organic acids and derivatives,Carboxylic acids and derivatives,116.32,Betaine
+89.8,-0.83,-2.97,-6.05,-9.43,-11.04,-12.47,-13.64,-14.51,Organic acids and derivatives,Carboxylic acids and derivatives,116.51,Sarcosine
+76,-0.32,-3.08,-7.78,-13.64,-16.65,-19.66,-22.66,-25.65,Organic acids and derivatives,Carboxylic acids and derivatives,116.62,L-Glycine
+142,-0.93,-2.1,-3.67,-5.05,-5.47,-5.63,-5.28,-4.53,Organophosphorus compounds,Organothiophosphorus compounds,116.66,Methamidophos
+126.1,0.1,0.7,1.5,3.2,4.47,6,7.78,9.8,Organic acids and derivatives,Carboxylic acids and derivatives,118.2,CRG3f
+104.1,-1.54,-3.1,-5,-6.9,-7.5,-7.9,-7.8,-7.2,Organic acids and derivatives,Carboxylic acids and derivatives,118.27,4-Aminobutyric acid (GABA)
+127.1,-0.86,-1.79,-2.73,-3.47,-3.81,-3.86,-3.55,-2.76,Organoheterocyclic compounds,Diazines,118.31,Thymine
+90.1,-0.79,-2.97,-6.08,-9.42,-11.06,-12.46,-13.62,-14.55,Organic acids and derivatives,Carboxylic acids and derivatives,118.36,Alanine
+127.1,-0.87,-1.79,-2.77,-3.56,-3.73,-3.65,-3.25,-2.48,Organoheterocyclic compounds,Triazines,119.54,Melamine
+116.1,-1.19,-2.79,-4.76,-6.73,-7.57,-8.15,-8.38,-8.23,Organic acids and derivatives,Carboxylic acids and derivatives,120.11,L-proline
+106.1,-1.03,-2.87,-5.42,-8.34,-9.79,-11.1,-12.19,-12.96,Organic acids and derivatives,Carboxylic acids and derivatives,120.17,L-serine
+135.1,0.4,-1.54,-3.94,-5.5,-6.28,-7.09,-7.28,-7.42,Organic acids and derivatives,Hydroxy acids and derivatives,120.22,Malic Acid
+124.1,-1.06,-2.53,-4.31,-5.95,-6.58,-6.91,-6.92,-6.54,Organoheterocyclic compounds,Pyridines and derivatives,120.35,Nicotinic acid (Niacin)
+139,-1.02,-1.8,-3.01,-4.69,-5.28,-5.65,-5.77,-5.66,Benzenoids,Benzene and substituted derivatives,120.55,Salicylic Acid
+126,-0.86,-1.72,-2.46,-2.71,-2.44,-1.79,-0.67,0.91,Organic nitrogen compounds,Organonitrogen compounds,120.67,Methylhistamine
+136.1,-0.79,-1.66,-2.64,-3.49,-3.75,-3.78,-3.57,-3.05,Organoheterocyclic compounds,Imidazopyrimidines,121.37,Adenine
+142.1,0.3,0.7,1.6,3.5,4.61,5.8,7.12,8.6,Organoheterocyclic compounds,Pyrrolidines,121.79,CRG2c
+140.1,0.6,0.9,1.9,4.4,5.53,6.7,8.27,10.6,Organoheterocyclic compounds,Pyrrolidines,121.9,CRG2d
+130.1,0.1,0.5,1.5,3.4,4.79,6.2,7.26,7.6,Lipids and lipid-like molecules,Fatty Acyls,122.23,CRG4a
+120,-0.93,-2.39,-4.23,-6.08,-6.89,-7.48,-7.78,-7.73,Organic acids and derivatives,Carboxylic acids and derivatives,122.42,L-threonine
+123.1,-1.09,-2.52,-4.21,-5.76,-6.35,-6.66,-6.62,-6.22,Organoheterocyclic compounds,Pyridines and derivatives,123.23,Niacinamide (Nicotinamide)
+147.2,-0.39,-0.59,-0.6,-0.25,0.21,0.97,2.07,3.52,Organic acids and derivatives,Carboxylic acids and derivatives,123.45,L-lysine
+118.1,-0.65,-1.81,-3.23,-4.53,-4.99,-5.22,-5.04,-4.54,Organic acids and derivatives,Carboxylic acids and derivatives,123.61,L-Valine
+149.1,-0.3,-1.1,-1.5,-1.1,-0.48,0.5,1.9,3.8,Organic nitrogen compounds,Organonitrogen compounds,123.99,CRG1b
+159.1,0.2,0.1,0.1,1.2,2.1,3.3,4.9,7,Organoheterocyclic compounds,Quinolines and derivatives,124.07,8-amino-2-MQ
+130,-0.99,-2.04,-3.04,-3.61,-3.57,-3.1,-2.2,-0.89,Organic acids and derivatives,Carboxylic acids and derivatives,124.14,Vigabatrin
+141.9,-0.98,-2.24,-3.57,-4.85,-5.23,-5.33,-5.06,-4.36,Organoheterocyclic compounds,Azoles,124.72,Dimetridazole
+134.1,-0.8,-2.07,-3.71,-5.49,-6.31,-6.91,-7.31,-7.41,Organic acids and derivatives,Carboxylic acids and derivatives,124.97,Aspartic Acid
+133.1,-0.98,-2.25,-3.79,-5.29,-5.93,-6.36,-6.47,-6.3,Organic acids and derivatives,Carboxylic acids and derivatives,125.08,L-asparagine
+160.1,-0.4,-0.6,-0.7,-0.4,0.06,0.8,1.89,3.4,Organoheterocyclic compounds,Quinolines and derivatives,125.75,MQOH
+158.1,0.2,0.2,0.6,1.9,3.03,4.5,6.32,8.5,Organoheterocyclic compounds,Quinolines and derivatives,126.14,6-methyl-2-MQ
+159.1,0,-0.1,0.2,1.2,2.04,3.2,4.79,6.9,Organoheterocyclic compounds,Quinolines and derivatives,126.43,6-amino-2-MQ
+147.1,-0.42,-0.61,-0.6,-0.26,0.21,0.98,2.06,3.52,Organic acids and derivatives,Carboxylic acids and derivatives,126.96,L-glutamine
+150.1,-0.66,-1.38,-2.15,-2.75,-2.79,-2.57,-2.03,-1.1,Organic acids and derivatives,Carboxylic acids and derivatives,127.28,L-methionine
+148.1,-0.7,-1.63,-2.71,-3.67,-3.99,-4.02,-3.85,-3.32,Organic acids and derivatives,Carboxylic acids and derivatives,127.37,L-glutamic acid
+178.1,-0.2,-0.4,-0.5,-0.3,0.08,0.7,1.6,2.8,Organoheterocyclic compounds,Quinolines and derivatives,127.47,5-F-MQOH
+168.1,0.4,-0.24,-0.82,-0.49,-0.13,0.37,1.63,3,Organoheterocyclic compounds,Pyridines and derivatives,127.49,Pyridoxal
+158.1,0.1,0.2,0.7,1.9,3.02,4.5,6.31,8.4,Organoheterocyclic compounds,Quinolines and derivatives,127.66,8-methyl-2-MQ
+156.1,-0.49,-1.08,-1.62,-1.81,-1.65,-1.2,-0.39,0.74,Organic acids and derivatives,Carboxylic acids and derivatives,127.68,L-histidine
+178.1,0.1,0.2,0.6,1.7,2.69,4,5.61,7.5,Organoheterocyclic compounds,Quinolines and derivatives,127.88,8-chloro-2-MQ
+178.1,-0.2,-0.4,-0.4,0,0.56,1.4,2.52,3.9,Organoheterocyclic compounds,Quinolines and derivatives,128.01,7-F-MQOH
+132.1,-0.4,-1.29,-2.37,-3.26,-3.52,-3.5,-3.19,-2.55,Organic acids and derivatives,Carboxylic acids and derivatives,128.16,L-Isoleucine
+174.1,0.2,0.5,1.2,2.6,3.78,5.3,7.12,9.2,Organoheterocyclic compounds,Quinolines and derivatives,128.2,8-methoxy-2-MQ
+174.1,0.3,0.4,0.8,2.1,3.19,4.6,6.33,8.4,Organoheterocyclic compounds,Quinolines and derivatives,128.59,6-methoxy-2-MQ
+174.1,-0.1,-0.1,0.2,0.9,1.59,2.6,3.96,5.7,Organoheterocyclic compounds,Quinolines and derivatives,128.85,7-Me-MQOH
+162.1,0.4,1,2,3.5,4.99,6.6,7.71,7.7,Benzenoids,Benzene and substituted derivatives,129.08,CRG1a
+175.2,0,0.04,0.36,1.29,2.11,3.19,4.66,6.46,Organic acids and derivatives,Carboxylic acids and derivatives,129.15,L-arginine
+178.1,0,-0.3,-0.8,-0.5,-0.03,0.7,1.75,3.2,Organoheterocyclic compounds,Quinolines and derivatives,129.26,6-F-MQOH
+174.1,-0.2,-0.2,0,0.8,1.47,2.4,3.65,5.3,Organoheterocyclic compounds,Quinolines and derivatives,129.45,5-Me-MQOH
+178.1,0.4,0.3,0.1,0.9,1.75,2.9,4.35,6.1,Organoheterocyclic compounds,Quinolines and derivatives,129.57,7-chloro-2-MQ
+174.1,-0.2,-0.2,0.1,1,1.81,2.9,4.29,6,Organoheterocyclic compounds,Quinolines and derivatives,129.62,6-Me-MQOH
+153.1,-0.15,-0.98,-1.96,-2.7,-3.01,-3.17,-3.15,-2.89,Organoheterocyclic compounds,Imidazopyrimidines,129.64,Xanthine
+167.1,-0.06,-0.26,-0.24,0.36,0.97,1.88,3.06,4.64,Organoheterocyclic compounds,Triazines,129.67,Cyromazine
+152.3,-0.16,-0.9,-1.9,-2.68,-2.73,-2.6,-2.07,-1.19,Organoheterocyclic compounds,Imidazopyrimidines,129.71,Guanine
+132.1,-0.42,-1.29,-2.36,-3.26,-3.51,-3.5,-3.19,-2.55,Organic acids and derivatives,Carboxylic acids and derivatives,129.82,L-leucine
+136.1,-0.49,-1.12,-1.7,-1.93,-1.75,-1.25,-0.39,0.84,Benzenoids,Benzene and substituted derivatives,130,Amphetamine
+190,0.2,0.21,0.08,0.53,1.15,1.86,2.91,4.22,Organoheterocyclic compounds,Benzotriazoles,130.04,Tricyclazole
+152.2,-0.56,-1.15,-1.7,-1.9,-1.63,-1.05,-0.09,1.21,Benzenoids,Phenols,130.25,Acetaminophen
+189.1,-0.1,-0.2,-0.2,0.5,1.29,2.4,3.81,5.5,Organoheterocyclic compounds,Quinolines and derivatives,130.62,8-nitro-2-MQ
+167.1,0.39,0.88,1.63,2.78,3.55,4.44,5.6,6.85,Organoheterocyclic compounds,Triazines,130.68,Cyromazine
+185.1,0.2,0.1,-0.5,-0.4,-0.1,0.4,1.18,2.3,Organoheterocyclic compounds,Quinolines and derivatives,130.92,7-CN-MQOH
+190.1,-0.1,-0.1,0.2,1.1,1.82,2.8,4.1,5.8,Organoheterocyclic compounds,Quinolines and derivatives,131.33,5-OMe-MQOH
+162.1,0.7,1,2.2,4,5.8,8,10.15,11.8,Benzenoids,Benzene and substituted derivatives,131.54,CRG3b
+165.1,-0.93,-0.49,1.2,3.6,4.85,6.13,7.4,8.93,Benzenoids,Benzene and substituted derivatives,131.6,Fenuron
+162.1,0.5,1,1.7,3.2,3.77,4.4,5.48,7.4,Benzenoids,Benzene and substituted derivatives,131.8,CRG2b
+190.1,-0.1,0,0.3,1.4,2.19,3.2,4.54,6.3,Organoheterocyclic compounds,Quinolines and derivatives,131.9,7-OMe-MQOH
+185.1,0.1,0.1,-0.2,-0.3,-0.14,0.2,0.77,1.6,Organoheterocyclic compounds,Quinolines and derivatives,132.21,5-CN-MQOH
+154.1,-0.16,-1.25,-1.82,-2.23,-2.19,-1.9,-1.31,-0.37,Benzenoids,Benzene and substituted derivatives,132.27,4-Fluoroamphetamine
+185.1,0.1,0,-0.8,-1.3,-1.23,-0.9,-0.27,0.7,Organoheterocyclic compounds,Quinolines and derivatives,132.72,6-CN-MQOH
+185.1,0.29,0.25,-0.02,0.32,0.99,1.9,3.12,4.76,Organoheterocyclic compounds,Benzimidazoles,132.88,Fuberidazole
+190.1,-0.1,-0.1,0.2,1.2,1.98,3,4.35,6.1,Organoheterocyclic compounds,Quinolines and derivatives,132.9,6-OMe-MQOH
+150,0.01,-0.21,-0.17,0.57,1.29,2.32,3.65,5.61,Benzenoids,Benzene and substituted derivatives,133.16,Methamphetamine
+172.1,0.01,-0.03,0.15,0.88,1.53,2.37,3.46,4.9,Organic acids and derivatives,Carboxylic acids and derivatives,133.29,Gabapentin
+166.1,-0.19,-0.51,-0.63,-0.24,0.28,1.11,2.29,3.86,Benzenoids,Benzene and substituted derivatives,133.43,Ephedrine
+178.1,0.7,1.1,2.2,3.9,4.91,6.5,9.27,13.8,Benzenoids,Benzene and substituted derivatives,133.98,CRG1g
+195.1,-0.32,-0.61,-0.81,-0.72,-0.44,0.06,0.61,1.79,Organoheterocyclic compounds,Imidazopyrimidines,134.19,Caffeine
+211,0.4,0.79,1.3,2.25,3,3.91,4.96,6.33,Organoheterocyclic compounds,Benzothiadiazoles,134.84,Acibenzolar-S-methyl
+166.1,-0.19,-0.51,-0.68,-0.29,0.24,1.03,2.14,3.65,Benzenoids,Benzene and substituted derivatives,134.85,Pseudoephedrine
+180.1,0,-0.03,0.23,0.97,1.65,2.61,3.89,5.53,Benzenoids,Benzene and substituted derivatives,134.99,N-methylephedrine
+178.1,0.7,1.1,2.1,3.8,4.61,6,8.79,13.8,Benzenoids,Benzene and substituted derivatives,135.22,CRG1d
+202,0.06,-0.04,0,0.6,1.23,2.07,3.28,4.86,Organoheterocyclic compounds,Benzimidazoles,135.57,Thiabendazole
+192.1,0.3,0.9,2.02,3.74,4.92,6.58,8.36,10.33,Organoheterocyclic compounds,Benzimidazoles,135.72,Carbendazim
+205.1,0,-0.3,-0.7,-0.65,-0.39,0.1,0.9,2.1,Organoheterocyclic compounds,Quinolines and derivatives,135.95,7-NO2-MQOH
+170.1,0.58,1.25,2.45,4.32,5.56,7.05,8.82,10.91,Benzenoids,Phenols,136.03,Norepinephrine
+166.1,-0.13,-0.65,-1.2,-1.48,-1.41,-1.08,-0.45,0.46,Organic acids and derivatives,Carboxylic acids and derivatives,136.06,L-phenylalanine
+225.1,0.15,0.84,2.13,3.42,4.5,7.66,9.71,12.28,Lipids and lipid-like molecules,Fatty Acyls,136.59,Mevinphos
+194,0,0,0.1,0.7,1.37,2.3,3.48,4.9,Organoheterocyclic compounds,Quinolines and derivatives,136.88,7-Cl-MQOH
+205.1,0.2,-0.1,0,-0.4,-0.34,0,0.59,1.4,Organoheterocyclic compounds,Quinolines and derivatives,137.66,5-NO2-MQOH
+189.1,0.6,0,-0.8,-0.6,-0.16,0.5,1.44,2.7,Organoheterocyclic compounds,Quinolines and derivatives,138.15,6-nitro-2-MQ
+180.1,-0.19,-0.47,-0.7,-0.63,-0.34,0.14,0.83,1.83,Organoheterocyclic compounds,Benzodioxoles,138.56,"2,3-Methylenedioxyamphetamine"
+194,0.1,0.1,0.3,0.5,0.91,1.6,2.57,3.8,Organoheterocyclic compounds,Quinolines and derivatives,138.66,5-Cl-MQOH
+220.1,0.42,0.65,1,2.2,2.9,4.1,5.4,7.3,Organic oxygen compounds,Organooxygen compounds,138.73,D-Pantothenic acid
+205.1,0.2,-0.1,-0.3,-1.2,-1.29,-1,-0.39,0.5,Organoheterocyclic compounds,Quinolines and derivatives,139.37,6-NO2-MQOH
+224.1,0,0.41,1.3,2.52,3.2,4.03,5.41,7.38,Organic acids and derivatives,Organic phosphoric acids and derivatives,139.4,Monocrotophos
+215.1,0.37,0.68,1.01,1.84,2.6,3.54,4.74,6.13,Organosulfur compounds,Thioethers,139.56,Metribuzin
+222.1,0.33,0.66,1.15,2.25,3.17,4.31,5.73,7.38,Organoheterocyclic compounds,Benzothiazoles,139.7,Methabenzthiazuron
+188.1,0.23,0.69,1.79,3.94,5.51,7.41,9.67,12.3,Benzenoids,Benzene and substituted derivatives,139.81,Selegiline
+194,0.1,-0.1,-0.3,0.1,0.58,1.3,2.35,3.8,Organoheterocyclic compounds,Quinolines and derivatives,139.83,6-Cl-MQOH
+223.1,-0.23,0.7,2.41,4.14,5.08,7.11,8.88,10.83,Organosulfur compounds,Sulfonyls,140,Aldicarb sulfone
+194.1,-0.1,0.19,1.16,2.32,2.85,3.74,5.43,7.51,Benzenoids,Benzene and substituted derivatives,140.4,Isoprocarb
+180,-0.08,-0.3,-0.3,0.36,1.04,2.01,3.32,5.05,Benzenoids,Benzene and substituted derivatives,140.43,Phenacetin
+177.1,-0.06,-0.48,-0.92,-0.99,-0.83,-0.51,0,0.82,Organoheterocyclic compounds,Pyridines and derivatives,140.48,Cotinine
+210.1,0.67,0.78,0.84,1.9,3.01,4.01,5.44,7.35,Benzenoids,Phenol ethers,140.64,Propoxur
+182.1,0.37,-0.6,-1.6,-1.8,-1.9,-1.8,-1.4,-0.9,Organic acids and derivatives,Carboxylic acids and derivatives,140.75,L-Tyrosine
+199,0,-0.1,-0.09,0.45,1.04,1.9,3.09,4.66,Benzenoids,Benzene and substituted derivatives,140.87,Monuron
+230,0.48,1.32,2.71,4.8,6.18,7.88,9.57,11.49,Organic acids and derivatives,Organic dithiophosphoric acids and derivatives,140.98,Dimethoate
+223.1,0,0.33,1.12,2.74,3.83,4.74,6.39,8.33,Organosulfur compounds,Sulfonyls,141.54,Butoxycarboxim
+224.1,0.5,0.99,1.74,2.93,3.71,4.54,5.57,6.68,Benzenoids,Benzene and substituted derivatives,141.93,Dioxacarb
+215.1,0.01,0.14,0.48,1.32,2.05,3.07,4.36,5.94,Benzenoids,Benzene and substituted derivatives,142.02,Monolinuron
+200.1,0.3,0.81,1.74,3.39,4.59,6.1,7.89,10.06,Benzenoids,Benzene and substituted derivatives,142.27,Pyrimethanil
+230,-0.08,-0.08,0.11,0.75,1.31,2.13,3.12,4.52,Benzenoids,Benzene and substituted derivatives,142.41,Clonidine
+222.1,0.48,1.34,2.79,4.9,6.21,7.72,9.45,11.39,Organoheterocyclic compounds,Coumarans,142.47,Carbofuran
+229.1,2.46,3.47,3.55,4.64,5.98,6.77,7.57,9.51,Organoheterocyclic compounds,Azoles,142.99,Tebuthiuron
+210.1,0.02,0.11,0.39,1.12,1.76,2.54,3.57,4.87,Organic nitrogen compounds,Organonitrogen compounds,143.03,monoxidil
+219.1,0.22,0.83,1.78,3.56,5.38,7.2,8.94,10.44,Organic acids and derivatives,Carboxylic acids and derivatives,143.16,Meprobamate
+189.2,0.2,0.73,1.81,3.64,4.95,6.66,8.5,10.64,Organic acids and derivatives,Carboxylic acids and derivatives,143.16,Propamocarb
+199.2,0.42,1,2,3.67,4.82,6.21,7.93,9.87,Organic acids and derivatives,Organic carbonic acids and derivatives,143.91,Cycluron
+226.1,0.51,1.15,2.24,4.25,5.54,7.05,8.82,10.89,Organoheterocyclic compounds,Imidazopyrimidines,143.99,Acyclovir
+218.1,0.26,0.65,1.42,2.83,3.84,5.08,6.61,8.5,Benzenoids,Benzene and substituted derivatives,144.13,Pyracarbolid
+238.1,0.3,0.72,1.5,2.86,3.84,5.06,6.55,8.35,Benzenoids,Benzene and substituted derivatives,144.5,Ketamine
+205.1,0.51,0.73,1.4,2.47,2.58,2.89,3.36,3.82,Organoheterocyclic compounds,Azolidines,144.5,R-(-)-Nirvanol
+213.1,0.2,0.65,1.38,2.73,3.66,4.64,6.13,7.64,Benzenoids,Benzene and substituted derivatives,144.78,Chlortoluron
+214.1,0.33,0.72,1.42,2.72,3.69,4.84,6.33,8.11,Organoheterocyclic compounds,Triazines,144.87,Simetryn
+236.1,0.45,1.04,2.17,3.59,4.39,5.52,6.65,8,Benzenoids,Benzene and substituted derivatives,145.35,Carboxin
+205.1,0.22,0.06,0.01,0.42,0.8,1.38,2.14,3.09,Organoheterocyclic compounds,Indoles and derivatives,145.46,L-tryptophan
+208.1,0.09,0.7,1.57,2.86,3.78,5.06,6.35,8.18,Benzenoids,Benzene and substituted derivatives,145.57,Fenobucarb
+239.2,0.33,0.8,1.67,3.11,4.13,5.45,6.94,8.79,Organic nitrogen compounds,Organonitrogen compounds,146.02,Pirimicarb
+220.1,0.24,0.63,1.42,2.86,3.91,5.21,6.76,8.67,Organic nitrogen compounds,Organonitrogen compounds,146.51,Ritalinic Acid
+233,0.29,0.68,1.3,2.21,2.82,3.62,4.53,5.79,Benzenoids,Benzene and substituted derivatives,146.54,Diuron
+192.1,0.09,-0.03,0.25,1.02,1.72,2.69,3.99,5.67,Organic oxygen compounds,Organooxygen compounds,146.68,Pentedrone
+230.1,-0.4,-0.02,0.77,0.72,0.31,0.91,1.5,2.25,Organoheterocyclic compounds,Pyridines and derivatives,146.74,Flonicamid
+221.1,0.44,1.13,2.43,4.49,5.8,7.14,8.48,10.06,Benzenoids,Benzene and substituted derivatives,147.29,Thidiazuron
+245.1,-0.6,0.5,1.2,0.6,1,2.1,2.8,3.5,"Nucleosides, nucleotides, and analogues",Pyrimidine nucleosides,147.41,Uridine
+238.1,0.43,1.11,2,3.4,4.53,6.21,7.68,9.94,Organoheterocyclic compounds,Coumarans,147.55,3-Hydroxycarbofuran
+221.1,0.43,0.77,1.61,2.96,3.43,4.01,4.69,5.54,Organoheterocyclic compounds,Azolidines,147.84,4-Hydroxynirvanol
+222.1,0.33,0.86,1.89,3.75,5.08,6.69,8.61,10.84,Benzenoids,Benzene and substituted derivatives,148.12,Tapentadol
+249,0.16,0.49,0.94,2.16,3.22,4.3,5.37,6.99,Benzenoids,Benzene and substituted derivatives,148.44,Linuron
+209.1,0.27,0.5,0.79,1.62,2.36,3.21,4.46,6.03,Benzenoids,Benzene and substituted derivatives,148.55,Aminocarb
+208.1,0.34,0.81,1.43,2.57,3.42,4.43,6.2,8.42,Benzenoids,Benzene and substituted derivatives,148.8,Promecarb
+233.1,0.56,1.07,1.91,3.28,4.29,5.66,7.26,9.09,Organoheterocyclic compounds,Indoles and derivatives,148.86,Melatonin
+222.1,0,0.02,0.27,1.04,1.71,2.59,3.74,5.21,Organoheterocyclic compounds,Benzodioxoles,148.92,Ethylone
+244.1,0.1,0.14,0.33,0.9,1.39,2.05,2.91,4.22,"Nucleosides, nucleotides, and analogues",Pyrimidine nucleosides,149.2,Cytidine
+237.1,0.29,0.8,1.77,3.39,4.53,5.95,7.61,9.6,Organoheterocyclic compounds,Benzazepines,149.21,Carbamazepine
+218.1,0,-0.13,-0.2,0.09,0.47,1,1.8,2.79,Organoheterocyclic compounds,Triazines,149.28,Pymetrozine
+226.1,-0.15,0.22,1.11,2.02,2.35,2.88,4.09,5.97,Benzenoids,Benzene and substituted derivatives,149.45,Methiocarb
+238.1,0.4,0.82,1.51,2.49,3.11,3.89,4.8,5.92,Organic acids and derivatives,Organic phosphoric acids and derivatives,149.58,Dicrotophos
+210.2,0.62,1.07,1.39,2.37,3.35,4.48,5.62,6.44,Organoheterocyclic compounds,Diazines,149.92,Ethirimol
+226.2,0.46,1.24,2.55,4.38,5.55,7.09,8.63,10.48,Organoheterocyclic compounds,Triazines,150,Terbumeton
+256.1,0.46,0.83,1.06,1.48,1.98,2.83,3.54,4.78,Organic nitrogen compounds,Organonitrogen compounds,150.1,Imidacloprid
+207.2,0.22,0.58,1.23,2.39,3.25,4.39,5.91,7.6,Benzenoids,Benzene and substituted derivatives,150.35,Isoproturon
+207.1,0.42,0.92,1.88,3.52,4.43,5.01,6.47,8.22,Phenylpropanoids and polyketides,Phenylpropanoic acids,150.61,S-(+)-Ibuprofen
+224.1,0.39,0.92,1.91,3.65,4.9,6.41,8.15,10.24,Benzenoids,Benzene and substituted derivatives,150.85,Mepanipyrim
+231.1,0.47,1.08,1.98,3.36,4.24,5.2,7.19,8.77,Benzenoids,Naphthalenes,150.86,Naproxen
+233.2,0.4,0.93,1.85,3.41,4.48,5.78,7.34,9.18,Benzenoids,Benzene and substituted derivatives,151.22,Norfentanyl
+226.1,0.44,1.07,2.2,4.07,5.35,6.86,8.64,10.69,Benzenoids,Phenols,151.34,Terbutaline
+226.1,0.45,0.95,1.93,3.5,4.68,6.42,7.92,9.71,Benzenoids,Benzene and substituted derivatives,151.36,Cyprodinil
+250,0.29,0.65,1.27,2.56,3.55,4.62,6.08,7.67,Organoheterocyclic compounds,Azoles,151.57,Clothianidin
+250.1,0.43,1,2.03,3.7,4.86,6.29,8.02,10.01,Benzenoids,Benzene and substituted derivatives,151.79,O-Desmethyl-cis-tramadol HCL
+228.1,0.44,1.15,2.38,4.04,5.07,6.37,7.67,9.29,Organoheterocyclic compounds,Triazines,151.92,Ametryn
+223.1,0.32,0.7,1.37,2.61,3.5,4.51,5.93,7.71,Benzenoids,Benzene and substituted derivatives,152.28,Mexacarbate
+240.1,0.49,1.1,2.21,4.07,5.33,6.83,8.59,10.57,Benzenoids,Benzene and substituted derivatives,152.36,Salbutamol
+226.2,0.54,1.24,2.41,4.23,5.45,6.95,8.57,10.56,Organoheterocyclic compounds,Triazines,152.45,Prometon
+256,0.08,0.19,0.44,0.99,1.47,2.1,2.97,4.09,Benzenoids,Benzene and substituted derivatives,152.68,Lamotrigine
+256.2,-0.03,0.16,0.51,1.12,1.72,2.48,3.51,4.74,Organic nitrogen compounds,Organonitrogen compounds,152.85,Imidacloprid
+251.1,0.05,0.29,0.68,1.39,2.03,2.87,3.97,5.38,Benzenoids,Benzene and substituted derivatives,153.36,Sulfadiazine
+248.1,0.34,0.7,1.32,2.42,3.21,4.17,5.36,6.83,Organoheterocyclic compounds,Pyridines and derivatives,153.43,Forchlorfenuron
+226.2,0.52,1.19,2.39,4.19,5.37,6.86,8.48,10.5,Organoheterocyclic compounds,Triazines,153.44,Secbumeton
+255.1,0.63,0.73,1.23,2.97,4.35,5.9,7.4,9.04,Benzenoids,Benzene and substituted derivatives,153.51,Ketoprofen
+256.2,0.38,0.94,2.01,3.79,5.05,6.66,8.6,10.88,Benzenoids,Benzene and substituted derivatives,153.69,phenyltoloxamine
+223.1,0.13,-0.09,-0.25,0.01,0.32,0.83,1.53,2.52,Organoheterocyclic compounds,Pyridines and derivatives,153.99,Acetamiprid
+234.1,0.4,0.91,1.9,3.59,4.72,6.11,7.72,9.6,Organoheterocyclic compounds,Piperidines,154.13,Normeperidine
+223.1,0.05,0.01,-0.1,0,0.28,0.81,1.48,2.41,Organoheterocyclic compounds,Pyridines and derivatives,154.35,Acetamiprid
+267,0.86,2.08,4.35,8.01,10.42,13.3,16.58,20.32,Benzenoids,Benzene and substituted derivatives,154.37,Atenolol
+241.2,0.52,1.28,2.63,4.89,6.43,8.24,10.31,12.62,Organoheterocyclic compounds,Pyridines and derivatives,154.61,Pheniramine
+242.2,0.49,1.25,2.53,4.33,5.48,6.95,8.41,10.18,Organoheterocyclic compounds,Triazines,154.61,Terbutryne
+258.1,0.17,0.75,1.81,3.42,4.51,5.97,7.63,9.44,Benzenoids,Benzene and substituted derivatives,155.12,Thiobencarb
+258.1,1,1.5,2.5,4,4.84,5.8,6.96,8.4,Organoheterocyclic compounds,Pyridines and derivatives,155.42,A3a
+279.1,0.11,0.25,1.37,3.11,4.14,5.56,7.16,9.12,Benzenoids,Benzene and substituted derivatives,155.64,Oxadixyl
+280.2,0.43,1.15,2.43,4.31,5.53,7.15,8.92,10.94,Organic acids and derivatives,Carboxylic acids and derivatives,155.72,Metalaxyl
+237.1,0.26,0.67,1.4,2.79,3.8,4.92,6.42,8.22,Benzenoids,Benzene and substituted derivatives,155.76,Carbetamide
+265,0.28,0.69,1.45,2.68,3.53,4.64,6.03,7.6,Benzenoids,Benzene and substituted derivatives,156.29,Sulfamerazine
+288.1,-0.05,0.5,1.53,3.36,4.6,6.07,7.75,9.63,Organic acids and derivatives,Carboxylic acids and derivatives,156.35,Vamidothion
+272,0.48,1.05,2.01,3.47,4.43,5.61,7.03,8.63,Alkaloids and derivatives,Morphinans,156.42,Desomorphine
+256.1,0.08,0.85,1.79,3.18,4.95,6.67,8.62,10.9,Organic oxygen compounds,Organooxygen compounds,156.81,Ketorolac
+235.1,0.45,0.91,1.69,3.12,4.37,5.87,7.46,9.47,Benzenoids,Benzene and substituted derivatives,156.81,Lidocaine
+292,0.5,0.89,1.24,2.24,3.1,3.82,5.12,6.54,Organoheterocyclic compounds,Azoles,157.1,Thiamethoxam
+242.2,0.5,1.26,2.52,4.3,5.44,6.9,8.35,10.11,Organoheterocyclic compounds,Triazines,157.19,Prometryne
+267.2,0.43,0.96,1.87,3.31,4.33,5.6,7.11,8.88,Organoheterocyclic compounds,Benzazepines,157.26,Desipramine
+271.1,0.19,0.51,1.06,1.78,2.33,3.38,4.4,5.81,Organoheterocyclic compounds,Pyridines and derivatives,157.38,Nitenpyram
+303,0.39,1.04,2.06,3.5,4.42,5.63,7.17,8.74,Benzenoids,Benzene and substituted derivatives,157.81,Clofentezine
+284.3,0.49,0.63,1.02,1.9,2.47,3.31,4.28,5.52,"Nucleosides, nucleotides, and analogues",Purine nucleosides,157.9,Guanosine
+251.1,0.54,1.09,2.06,3.69,4.92,6.57,8.22,10.28,Organic acids and derivatives,Carboxylic acids and derivatives,157.95,Lacosamide
+262.1,0.8,1.4,2.3,3.7,4.53,5.5,6.67,8.1,Benzenoids,Benzene and substituted derivatives,158.21,A1b
+253.1,0.19,0.41,0.88,1.78,2.47,3.47,4.66,6.19,Organoheterocyclic compounds,Azoles,158.25,Cimetidine
+264.2,0.54,1.2,2.36,4.23,5.49,7.02,8.85,10.95,Benzenoids,Phenol ethers,158.29,Tramadol
+253,0.18,0.23,0.23,0.44,0.74,1.27,1.98,2.9,Organoheterocyclic compounds,Pyridines and derivatives,158.92,Thiacloprid
+264,0.38,0.85,1.7,3.09,4.06,5.29,6.77,8.55,Benzenoids,Dibenzocycloheptenes,159.23,Protriptyline
+277.1,0.62,1.4,2.66,4.57,5.87,7.32,9.06,11.04,Benzenoids,Benzene and substituted derivatives,159.38,Clenbuterol
+262,0.58,1.34,2.62,4.64,6.03,7.65,9.59,11.79,Organoheterocyclic compounds,Benzofurans,159.47,Bufuralol
+272.2,0.57,1.28,2.52,4.41,5.66,7.15,8.82,10.81,Organoheterocyclic compounds,Triazines,159.68,Methoprotryne
+278.9,0.44,0.86,1.71,3.14,4.05,5.31,6.81,8.48,Benzenoids,Benzene and substituted derivatives,159.81,Sulfamethazine (Sulfadimidine)
+286.1,0.33,0.75,1.46,2.52,3.23,4.15,5.25,6.52,Alkaloids and derivatives,Morphinans,160.19,Morphine
+262.1,0.7,1.2,2,3.3,4.08,5,6.17,7.7,Benzenoids,Benzene and substituted derivatives,160.24,A1a
+302.1,0.6,1.23,2.25,3.79,4.79,5.97,7.46,9.04,Benzenoids,Benzene and substituted derivatives,160.33,Fenhexamid
+278.2,0.55,1.24,2.41,4.25,5.48,6.94,8.64,10.6,Benzenoids,Anthracenes,160.5,Maprotiline
+308.2,0.74,1.77,3.63,6.45,8.25,10.28,12.69,15.4,Benzenoids,Benzene and substituted derivatives,160.62,Tebuconazole
+311,0.5,1.14,2.2,3.62,4.5,5.62,6.75,8.18,Benzenoids,Benzene and substituted derivatives,160.64,Diflubenzuron
+287.1,0.34,0.84,1.67,2.96,3.88,5.01,6.41,8.05,Organoheterocyclic compounds,Benzodiazepines,160.75,Oxazepam
+281.2,0.53,1.2,2.36,4.16,5.38,6.82,8.5,10.41,Organoheterocyclic compounds,Benzazepines,160.76,Imipramine
+308,0.44,0.9,1.66,2.93,3.77,4.65,5.79,7.15,Organic oxygen compounds,Organooxygen compounds,160.78,Quinoxyfen
+302.1,0.38,0.88,1.75,3.09,3.86,4.93,6.12,7.49,Benzenoids,Phenanthrenes and derivatives,161.06,Oxymorphone
+284.1,0.48,0.98,1.72,3.07,4,4.91,6.26,7.78,Benzenoids,Benzene and substituted derivatives,161.75,Penconazole
+289.1,0.39,0.81,1.56,2.75,3.62,4.7,6,7.54,Organoheterocyclic compounds,Benzodiazepines,161.82,Desalkylflurazepam
+256.2,0.57,1.19,2.31,4.18,5.41,6.96,8.78,10.89,Benzenoids,Benzene and substituted derivatives,162.08,Diphenhydramine
+258.1,1,1.7,2.9,4.4,5.32,6.4,7.68,9.2,Organoheterocyclic compounds,Pyridines and derivatives,162.11,A3b
+289.1,0.28,0.84,1.73,2.96,3.78,4.82,6.09,7.59,Lipids and lipid-like molecules,Steroids and steroid derivatives,162.18,Epitestosterone
+278.1,0.54,1.23,2.4,4.23,5.46,6.99,8.77,10.84,Benzenoids,Dibenzocycloheptenes,162.31,Amitriptyline
+260,0.42,0.98,1.96,3.54,4.63,5.99,7.65,9.56,Benzenoids,Naphthalenes,162.5,(+-)-Propanolol
+268,0.57,1.03,1.89,3.43,4.51,5.81,7.36,9.17,Benzenoids,Phenols,162.6,Metoprolol
+292.1,0.37,1.14,2.24,3.37,3.98,5.15,6.72,8.73,Benzenoids,Tetralins,162.64,Norsertraline
+275.1,0.21,0.99,2.45,3.58,3.98,5.3,6.62,8.24,Benzenoids,Benzene and substituted derivatives,162.73,Neburon
+273.1,0.45,1.05,2.08,3.64,4.7,6.01,7.58,9.38,Benzenoids,Benzene and substituted derivatives,162.81,Sotalol
+286.1,0.43,0.8,1.78,3.06,3.92,5.04,6.54,8.53,Organoheterocyclic compounds,Benzodiazepines,162.91,7-aminoclonazepam
+286.1,0.28,0.7,1.46,2.67,3.48,4.53,5.79,7.31,Organoheterocyclic compounds,Benzodiazepines,162.91,7-Aminoclonazepam
+275.1,0.6,1.06,2.37,4.39,5.8,7.46,9.31,11.28,Organoheterocyclic compounds,Pyridines and derivatives,162.96,Chlorpheniramine
+261.1,0.42,1,2.1,4,5.2,6.5,8.4,10.4,Organic acids and derivatives,Carboxylic acids and derivatives,163.05,Carisoprodol
+277.2,0.7,1.3,2.5,4.2,5.33,6.7,8.38,10.4,Benzenoids,Benzene and substituted derivatives,163.17,B2a
+259.1,0.7,1.3,2.3,3.8,4.75,5.9,7.32,9.1,Benzenoids,Benzene and substituted derivatives,163.23,A2a
+302.1,0.57,1.37,2.67,4.84,6.32,8.01,10,12.23,Benzenoids,Benzene and substituted derivatives,163.24,Furalaxyl
+302.2,0.48,1,1.9,3.19,4.07,5.14,6.41,7.89,Alkaloids and derivatives,Morphinans,163.34,Dihydrocodeine
+285.1,0.36,0.9,1.79,3.19,4.2,5.39,6.86,8.5,Organoheterocyclic compounds,Benzodiazepines,163.41,Diazepam
+302.1,0.34,0.87,1.77,3.07,3.85,4.91,6.1,7.4,Benzenoids,Phenanthrenes and derivatives,163.46,Noroxycodone
+289.2,0.31,0.77,1.6,2.86,3.55,4.58,5.7,6.92,Lipids and lipid-like molecules,Steroids and steroid derivatives,163.83,Testosterone
+264,0.35,0.85,1.71,3.09,4.07,5.3,6.81,8.59,Benzenoids,Dibenzocycloheptenes,164.1,Nortriptyline
+301.1,0.3,0.91,1.96,3.44,4.3,5.6,7.03,8.6,Organoheterocyclic compounds,Benzodiazepines,164.26,Temazepam
+271.1,-0.07,0.47,1.38,2.66,3.77,5.35,6.94,8.7,Benzenoids,Benzene and substituted derivatives,164.91,Tolbutamide
+290.1,0.35,0.83,1.71,3.07,3.88,5.02,6.31,7.74,Benzenoids,Benzene and substituted derivatives,165.18,Benzoylecgonine
+307.2,1,2.24,4.24,7.28,9.25,11.43,13.92,16.68,Organoheterocyclic compounds,Diazanaphthalenes,165.29,Fenazaquin
+302.1,0.3,0.66,1.25,2.27,3,3.86,4.92,6.34,Benzenoids,Benzene and substituted derivatives,165.52,Flutriafol
+252.1,0.38,0.92,1.86,3.43,4.5,5.79,7.33,9.15,Benzenoids,Benzene and substituted derivatives,165.58,Desoxypipradrol
+344,0.39,0.93,1.83,3.32,4.36,5.56,6.76,8.12,Benzenoids,Benzene and substituted derivatives,165.83,Prothioconazole
+359,-0.71,-0.16,1.56,3.74,4.85,6.32,7.8,9.48,Benzenoids,Benzene and substituted derivatives,165.83,Triflumuron
+286.1,0.32,0.75,1.47,2.52,3.24,4.15,5.26,6.52,Alkaloids and derivatives,Morphinans,166.2,Norcodeine
+302,0.71,1.52,2.91,4.19,5.37,6.96,8.82,10.82,Benzenoids,Phenols,166.21,Ractopamine
+282.1,0.5,0.97,1.75,3,3.91,5.02,6.29,7.71,Organoheterocyclic compounds,Benzodiazepines,166.22,Nitrazepam
+295.2,0.65,1.23,2.56,4.33,5.6,7.13,8.87,10.77,Organoheterocyclic compounds,Benzazepines,166.38,Trimipramine
+299.1,0.37,1.06,2.15,3.96,5.2,6.52,8.12,10.01,Organoheterocyclic compounds,Benzothiazoles,166.42,Mefenacet
+259.1,1,1.3,2.3,3.7,4.64,5.8,7.21,8.9,Benzenoids,Benzene and substituted derivatives,166.65,A2b
+315.2,0.4,0.93,1.88,3.36,4.31,5.57,7.03,8.71,Organic nitrogen compounds,Organonitrogen compounds,166.68,ranitidine
+292.1,0.44,1.12,2.39,4.45,5.86,7.47,9.13,11.39,Benzenoids,Benzene and substituted derivatives,166.83,Cyproconazole
+325.1,0.37,0.81,1.55,2.67,3.4,4.3,5.45,6.83,Organoheterocyclic compounds,Azoles,166.91,Cyazofamid
+282.1,0.06,0.55,1.38,2.63,3.52,4.64,5.92,7.42,Phenylpropanoids and polyketides,Phenylpropanoic acids,167.18,Indoprofen
+336,0.6,1.32,2.45,4.24,5.41,6.63,8.14,9.81,Benzenoids,Benzene and substituted derivatives,167.43,Zoxamide
+334.2,0.6,1.38,2.72,4.75,6.08,7.68,9.51,11.6,Lipids and lipid-like molecules,Prenol lipids,167.66,Ipconazole
+270.2,0.42,1.09,2.22,3.86,4.94,6.34,7.84,9.58,Benzenoids,Benzene and substituted derivatives,167.68,Mepronil
+299.9,0.33,0.74,1.34,2.4,3.15,4.08,5.2,6.53,Organoheterocyclic compounds,Benzodiazepines,167.81,Chlordiazepoxide
+300.2,0.36,0.85,1.72,3.08,3.93,5.03,6.28,7.76,Alkaloids and derivatives,Morphinans,167.88,Hydrocodone
+304.2,0.58,1.27,2.21,4.1,5.37,6.84,8.49,10.31,Benzenoids,Benzene and substituted derivatives,168.19,Fenoterol
+323,0.03,0.59,1.21,1.82,2.47,2.97,4.06,5.26,Benzenoids,Benzene and substituted derivatives,168.26,Chloramphenicol
+278.2,0.48,1.09,2.14,3.83,4.95,6.28,7.84,9.64,Benzenoids,Phenol ethers,168.46,Venlafaxein
+316.1,0.41,1.04,2.11,3.74,4.79,6.09,7.62,9.3,Organoheterocyclic compounds,Benzothiopyrans,168.47,Chlorprothixene
+288,0.53,1.28,2.45,4.2,5.49,6.85,8.56,10.44,Organoheterocyclic compounds,Indoles and derivatives,168.83,Etodolac
+309.1,0.35,1.13,2.43,4.2,5.32,6.91,8.68,10.55,Phenylpropanoids and polyketides,Coumarins and derivatives,168.89,Warfarin
+315.1,0.46,0.85,1.41,2.51,3.24,3.76,4.78,6.02,Benzenoids,Benzene and substituted derivatives,168.9,Nuarimol
+277.2,0.9,1.5,2.4,3.4,4.04,4.9,6.11,7.8,Benzenoids,Benzene and substituted derivatives,169.03,B2b
+324.1,0.5,1.26,2.54,4.49,5.76,7.25,8.89,10.82,Benzenoids,Benzene and substituted derivatives,169.04,Flutolanil
+268.2,-1.02,-0.4,1.7,3.42,3.81,5.16,6.5,8,Benzenoids,Benzene and substituted derivatives,169.28,Diethofencarb
+381,-1.16,-0.65,1.24,3.34,4.2,5.5,6.79,8.38,Benzenoids,Benzene and substituted derivatives,169.28,Teflubenzuron
+287.1,0.45,0.99,1.92,3.46,4.42,5.4,7.15,9.4,Organoheterocyclic compounds,Coumarans,169.63,Ethofumesate
+328.1,0.35,0.82,1.68,2.98,3.76,4.82,6.02,7.34,Benzenoids,Phenanthrenes and derivatives,169.92,Naloxone
+326.2,0.2,0.2,0.2,0.1,0.3,0.7,1.22,1.8,Benzenoids,Benzene and substituted derivatives,170.04,C2a
+301.1,0.27,0.87,2.05,3.56,4.48,5.87,7.11,8.98,Benzenoids,Benzene and substituted derivatives,170.25,Desmedipham
+326.2,0.11,0.69,1.54,3.05,4.29,6.05,7.6,9.4,Organic acids and derivatives,Carboxylic acids and derivatives,170.29,Benalaxyl
+309.1,0.32,0.94,1.95,3.4,4.3,5.53,6.96,8.59,Organoheterocyclic compounds,Benzodiazepines,170.4,Alprazolam
+372,0.49,1.1,2.13,3.7,4.73,5.94,7.28,8.92,Benzenoids,Benzene and substituted derivatives,170.4,Tetraconazole
+301.1,0.49,1.34,2.47,4.32,5.6,6.86,8.12,9.87,Benzenoids,Benzene and substituted derivatives,170.59,Phenmedipham
+328.1,0.08,0.75,1.97,3.55,4.6,6.31,7.63,9.34,Benzenoids,Benzene and substituted derivatives,170.68,Diclobutrazol
+304.1,0.43,1.05,2.14,3.8,4.87,6.23,7.85,9.43,Benzenoids,Benzene and substituted derivatives,170.71,Cocaine
+309.1,0.66,1.22,2.39,4.18,5.75,7.65,9.59,11.3,Organoheterocyclic compounds,Azoles,170.72,Nifenazone
+291.1,0.49,0.91,1.88,3.36,4.33,5.5,6.91,8.61,Benzenoids,Phenol ethers,170.8,Trimethoprim
+319.2,0.32,0.96,2.07,3.72,4.91,6.29,8.18,9.2,Benzenoids,Benzene and substituted derivatives,171.22,Fluvoxamine
+312.1,0.44,1.04,2.04,3.56,4.57,5.82,7.25,8.84,Organic acids and derivatives,Carboxylic acids and derivatives,171.35,Fenamidone
+316.1,0.04,0.47,1.01,1.77,2.5,3.15,4.3,5.53,Organoheterocyclic compounds,Benzodiazepines,171.42,Clonazepam
+296.1,0.29,0.8,1.56,2.87,3.76,4.65,6.06,7.48,Benzenoids,Phenol ethers,171.43,Triadimenol
+335.1,0.8,1.4,2.5,4.3,5.45,6.8,8.4,10.3,Benzenoids,Benzene and substituted derivatives,171.45,B3a
+328.1,0.4,0.87,1.6,2.79,3.59,4.49,5.74,7.02,Benzenoids,Benzene and substituted derivatives,171.72,Etaconazole
+326.1,0.21,0.52,1.07,2.14,2.96,3.97,5.3,6.84,Phenylpropanoids and polyketides,Cinnamyl alcohols,171.73,Diniconazole
+314.1,0.38,0.83,1.59,2.78,3.59,4.55,5.66,7,Benzenoids,Benzene and substituted derivatives,171.85,Hexaconazole
+315.2,0.21,0.65,1.42,2.53,3.19,4.1,5.13,6.3,Lipids and lipid-like molecules,Steroids and steroid derivatives,172.02,Progesterone
+320.2,0.52,1.37,3.05,5.39,6.78,8.46,10.39,12.68,Lipids and lipid-like molecules,Prenol lipids,172.14,Metconazole
+294.1,0.44,0.83,1.17,2.31,3.36,4.24,5.11,6.55,Benzenoids,Phenol ethers,172.41,Triadimefon
+387,0.34,1.15,2.64,4.6,5.82,7.61,9.27,11.52,Organoheterocyclic compounds,Azoles,172.57,Sulfentrazone
+316.1,0.47,0.99,1.86,3.23,4.15,5.24,6.42,7.85,Benzenoids,Benzene and substituted derivatives,172.74,Flusilazole
+326.2,0.3,0.4,0.4,0.4,0.81,1.5,2.37,3.3,Benzenoids,Benzene and substituted derivatives,172.79,C2b
+306.2,0.38,1.15,2.31,4.01,5.06,6.17,7.59,9.07,Organoheterocyclic compounds,Thiadiazinanes,172.88,Buprofezin
+326.1,0.46,1,1.98,3.53,4.5,5.74,7.15,8.83,Organoheterocyclic compounds,Benzodiazepines,172.96,Midazolam
+343.1,0.58,1.21,2.25,3.78,4.8,6.18,7.63,9.26,Benzenoids,Benzene and substituted derivatives,173,Thiophanate-methyl
+346.1,0.39,0.87,1.62,3.14,4.23,5.23,6.63,8.05,Benzenoids,Benzene and substituted derivatives,173.15,Triflumizole
+338.9,0.49,1.07,1.95,3.11,3.81,4.76,5.77,7.01,Organoheterocyclic compounds,Isoindoles and derivatives,173.39,Chlorthalidone
+376,1.76,2.35,2.36,3.03,3.86,4.25,4.65,5.79,Organoheterocyclic compounds,Diazanaphthalenes,173.6,Fluquinconazole
+364.1,0.47,1.28,2.37,4.31,5.67,6.93,8.48,10.42,Benzenoids,Benzene and substituted derivatives,173.62,Flufenacet
+316.2,0.52,1.2,2.35,4.11,5.27,6.67,8.38,9.96,Organoheterocyclic compounds,Quinolines and derivatives,173.78,Pamaquine
+291.1,0.78,1.59,2.87,4.8,6.07,7.61,9.27,11.14,Benzenoids,Benzene and substituted derivatives,174.19,Chloroxuron
+331,0.42,0.92,1.69,2.58,3.08,3.83,4.59,5.8,Benzenoids,Benzene and substituted derivatives,174.42,Fenarimol
+325.2,0.52,1.19,2.3,4,5.11,6.4,7.91,9.4,Alkaloids and derivatives,Cinchona alkaloids,174.71,Quinidine
+368.1,0.44,1.25,2.55,4.56,5.9,7.4,8.89,10.74,Benzenoids,Benzene and substituted derivatives,175.01,Picoxystrobin
+342.2,0.56,1.47,2.99,5.29,6.86,8.62,10.74,13.39,Phenylpropanoids and polyketides,"Linear 1,3-diarylpropanoids",175.05,Propafenone
+314.1,-0.64,0.11,2.3,4.92,6.15,7.74,9.34,11.56,Benzenoids,Phenol ethers,175.13,Kresoxim-methyl
+343,0.41,0.89,1.71,2.96,3.76,4.72,5.89,7.21,Benzenoids,Benzene and substituted derivatives,175.16,Boscalid
+330.1,0.55,1.02,1.68,2.91,3.77,4.55,5.58,6.74,Phenylpropanoids and polyketides,Stilbenes,175.2,Epoxiconazole
+348.1,0.7,1.2,2.1,3.4,4.21,5.2,6.44,8,Benzenoids,Benzene and substituted derivatives,175.36,A6a
+301.2,0.28,0.77,1.51,2.72,3.58,4.62,5.66,7.02,Benzenoids,Benzene and substituted derivatives,175.7,Bifenazate
+318.1,0.44,0.92,1.66,2.87,3.64,4.42,5.65,7,Benzenoids,Benzene and substituted derivatives,175.74,Triticonazole
+286.1,0.4,0.8,1.4,2.3,3,3.9,5.03,6.4,Benzenoids,Benzene and substituted derivatives,175.75,A4a
+304.3,0.62,1.54,3.08,5.52,7.17,9.05,10.92,13.19,Benzenoids,Benzene and substituted derivatives,176,Fenpropimorph
+340,0.46,0.88,1.38,2.54,3.39,3.93,4.79,6.04,Organic oxygen compounds,Organooxygen compounds,176.08,Mesotrione
+289.1,0.33,0.73,1.39,2.43,3.11,3.87,4.84,6.05,Benzenoids,Benzene and substituted derivatives,176.14,Myclobutanil
+308,0.33,0.86,1.79,3.25,4.2,5.39,6.81,8.64,Organoheterocyclic compounds,Azoles,176.17,Zolpidem
+315.1,0.31,0.86,1.82,3.24,4.14,5.31,6.71,8.33,Organoheterocyclic compounds,Diazanaphthalenes,176.27,Safranin O
+310.2,0.54,1.27,2.48,4.29,5.49,6.9,8.59,10.31,Benzenoids,Benzene and substituted derivatives,176.86,(+)-Methadone
+310.1,0.62,1.38,2.66,4.62,5.91,7.42,9.14,11.07,Benzenoids,Benzene and substituted derivatives,177.32,Fluoxetine
+364,0.8,1.3,2.2,3.4,4.12,5,6.1,7.5,Benzenoids,Benzene and substituted derivatives,177.51,A5a
+294.2,0.43,1.14,2.37,4.1,5.22,6.67,8.12,9.84,Benzenoids,Benzene and substituted derivatives,177.58,Amitraz
+361.1,0.42,0.93,1.79,3,3.69,4.78,5.82,7.08,Lipids and lipid-like molecules,Steroids and steroid derivatives,177.84,Prednisolone
+412,0.28,0.7,1.4,2.56,3.33,4.01,4.68,5.97,Organoheterocyclic compounds,Azoles,177.99,Carfentrazone-ethyl
+304,0.54,1.19,2.32,4.04,5.25,6.72,8.42,10.32,Benzenoids,Benzene and substituted derivatives,178.03,Retigabine
+298.3,0.59,1.28,2.41,4.24,5.47,6.8,8.4,10.23,Organic oxygen compounds,Organooxygen compounds,178.24,Spiroxamine
+348.1,0.8,1.3,2.1,3.2,3.76,4.4,5.24,6.4,Benzenoids,Benzene and substituted derivatives,178.66,A6b
+286.1,0.5,0.8,1.3,1.8,2.29,3,3.91,5,Benzenoids,Benzene and substituted derivatives,178.69,A4c
+317.2,0.13,0.87,2.22,4.13,5.34,6.92,8.5,10.31,Organoheterocyclic compounds,Diazines,178.73,Bupirimate
+337.1,2.69,3.7,3.79,4.71,5.87,6.53,7.19,8.76,Phenylpropanoids and polyketides,"Linear 1,3-diarylpropanoids",178.78,Fenbuconazole
+286.1,0.6,1,1.7,2.4,2.7,3.1,3.75,4.8,Benzenoids,Benzene and substituted derivatives,178.95,A4b
+327.2,0.18,0.73,1.93,3.7,4.95,6.96,8.74,11.03,Benzenoids,Benzene and substituted derivatives,179.21,Dimoxystrobin
+329.1,0.49,1.2,2.35,3.94,4.96,6.29,7.62,9.25,Benzenoids,Benzene and substituted derivatives,179.27,Pencycuron
+302.1,0.17,0.73,1.65,3.07,3.98,5.02,6.44,7.97,Benzenoids,Benzene and substituted derivatives,179.4,Fenoxycarb
+436.9,-0.93,-0.49,1.2,3.6,4.85,6.13,7.4,8.93,Organoheterocyclic compounds,Azoles,179.44,Fipronil
+376,0.48,1,1.7,3.17,4.26,5.22,6.72,8.09,Benzenoids,Phenol ethers,180.02,Prochloraz
+353.1,0.3,0.95,2.12,3.79,4.82,6.01,7.4,8.93,Benzenoids,Benzene and substituted derivatives,180.03,Hexythiazox
+342.1,0.44,0.89,1.63,2.85,3.69,4.64,5.78,7.13,Benzenoids,Benzene and substituted derivatives,180.29,Propiconazole
+364,0.8,1.3,2.2,3.4,4.1,4.9,5.85,7,Benzenoids,Benzene and substituted derivatives,180.88,A5b
+397,0.27,0.97,2.17,3.66,4.48,5.52,6.57,7.79,Organoheterocyclic compounds,Azoles,180.91,Ethiprole
+340.1,0.61,1.33,2.57,4.43,5.63,7.1,8.86,10.74,Phenylpropanoids and polyketides,Stilbenes,182.51,(+)-Propoxyphene
+334.2,0.5,1.15,2.23,3.84,4.82,5.68,6.54,8.23,Benzenoids,Benzene and substituted derivatives,183.25,Tebufenpyrad
+364.1,0.44,1.08,1.87,3.89,5.37,6.19,7.83,9.65,Benzenoids,Benzene and substituted derivatives,183.71,Benzoximate
+381.1,0.9,1.7,2.8,4.4,5.38,6.5,7.8,9.3,Benzenoids,Naphthalenes,183.77,B4b
+335.1,0.8,1.5,2.5,4,4.83,5.8,7.04,8.7,Benzenoids,Benzene and substituted derivatives,184.49,B3b
+388.2,0.65,1.17,2.06,3.51,4.47,5.54,6.85,8.43,Organoheterocyclic compounds,Diazinanes,184.83,Urapidil
+321.2,0.5,1.3,2.57,4.46,5.71,7.28,8.93,10.79,Benzenoids,Benzene and substituted derivatives,184.97,Iprovalicarb
+403.1,0.6,1.1,1.8,2,2.23,2.7,3.5,4.7,Benzenoids,Benzene and substituted derivatives,184.98,C1b
+342.1,0.35,0.87,1.76,3.08,3.9,4.98,6.18,7.59,Benzenoids,Benzene and substituted derivatives,185.45,Sulpiride
+360.2,0.57,1.38,2.72,4.82,6.24,7.91,9.58,11.56,Benzenoids,Benzene and substituted derivatives,185.73,Etoxazole
+322.2,0.15,0.72,1.73,3.09,3.93,5.05,6.18,7.87,Benzenoids,Benzene and substituted derivatives,186.24,Pyriproxyfen
+388.1,0.3,0.98,2.16,4.03,5.29,6.78,8.27,10.06,Organoheterocyclic compounds,Azoles,186.27,Pyraclostrobin
+337.2,0.59,1.46,2.88,4.99,6.39,7.95,9.78,11.97,Organoheterocyclic compounds,Piperidines,186.77,Fentanyl
+405.2,0.58,1.75,3.21,4.73,5.96,7.44,9.09,10.99,Organoheterocyclic compounds,Lactones,186.93,Lovastatin
+421.8,0.97,1.67,2.71,4.3,5.38,6.63,8.2,9.92,Organoheterocyclic compounds,Thiadiazines,187.58,Bendroflumethiazide
+386.3,0.68,1.29,2.33,3.89,4.86,6.12,7.5,9.08,Organoheterocyclic compounds,Diazinanes,188.31,Buspirone
+403.1,0.3,0.8,1.2,1.3,1.74,2.5,3.48,4.6,Benzenoids,Benzene and substituted derivatives,189.09,C1a
+337,0.33,0.83,1.7,3.02,3.85,4.93,6.17,7.67,Organic oxygen compounds,Organooxygen compounds,190,Acebutolol
+411.1,0.35,1.09,2.41,4.15,5.19,6.56,7.96,9.54,Benzenoids,Benzene and substituted derivatives,190.31,Spirodiclofen
+409.1,0.41,1.28,2.69,4.91,6.42,8.19,9.95,11.93,Benzenoids,Benzene and substituted derivatives,190.48,Trifloxystrobin
+376.1,0.34,0.81,1.65,2.93,3.72,4.75,5.93,7.32,Organic oxygen compounds,Organooxygen compounds,191,Haloperidol
+365.1,0.2,1,2.42,4.36,5.54,7.08,8.62,10.42,Benzenoids,Benzene and substituted derivatives,191.33,Pyridaben
+381.1,0.8,1.3,2.2,3.5,4.4,5.5,6.8,8.3,Benzenoids,Naphthalenes,191.67,B4a
+338.2,-0.01,0.8,2.48,4.61,5.76,7.21,8.66,10.46,Benzenoids,Benzene and substituted derivatives,191.72,Bitertanol
+360.1,0.42,1.01,2,3.52,4.49,5.68,7.08,8.74,Organic acids and derivatives,Hydroxy acids and derivatives,191.99,Buscopan
+404.2,0.82,1.42,2.48,4.3,5.47,6.71,8.24,10.06,Organoheterocyclic compounds,Benzothiazines,192,Perphenazine
+383.2,0.58,1.51,2.93,5.07,6.47,8.04,9.86,11.88,Organoheterocyclic compounds,Coumarans,192.59,Furathiocarb
+369.2,0.49,1.17,2.33,4.16,5.4,6.82,8.18,9.95,Benzenoids,Benzene and substituted derivatives,193.1,Methoxyfenozide
+414.3,0.77,1.48,2.48,3.79,4.66,5.77,7,8.47,Benzenoids,Phenanthrenes and derivatives,193.22,Norbuprenorphine
+511,-0.38,0.32,2,3.79,4.61,5.98,7.35,8.87,Benzenoids,Benzene and substituted derivatives,193.43,Lufenuron
+374.2,0.55,1.25,2.33,4.04,5.24,6.68,8.13,9.96,Benzenoids,Benzene and substituted derivatives,193.47,Spirotetramat
+360.1,-0.17,-0.17,0.05,0.53,0.93,1.63,2.38,3.48,Organic oxygen compounds,Organooxygen compounds,193.51,Clethodim
+388.1,0.38,0.86,1.68,2.93,3.78,4.86,6.06,7.44,Benzenoids,Benzene and substituted derivatives,193.58,Dimethomorph
+461,-0.16,0.53,1.99,3.68,4.54,5.83,7.12,8.66,Benzenoids,Benzene and substituted derivatives,193.9,Hexaflumuron
+516.3,0.85,1.82,3.42,5.76,7.34,9.24,11.55,14.18,Lipids and lipid-like molecules,Steroids and steroid derivatives,195.22,Taurocholic Acid
+412.1,0.69,1.6,2.99,5.14,6.62,8.36,10.11,12.19,Benzenoids,Benzene and substituted derivatives,196.28,Mandipropamid
+429.2,0.4,0.8,1.4,2.3,3,3.9,5.03,6.4,Benzenoids,Benzene and substituted derivatives,196.35,C4a
+375.1,0.59,1.25,2.35,4.06,5.22,6.63,8.04,9.03,Benzenoids,Benzene and substituted derivatives,196.73,Famoxadon
+395.2,0.58,1.1,1.99,3.62,4.8,6.1,7.55,8.98,Phenylpropanoids and polyketides,Isoflavonoids,197.34,Rotenone
+383.8,0.48,1.18,2.28,3.84,4.82,6.02,7.38,8.89,Organoheterocyclic compounds,Diazinanes,197.63,Prazosin
+429.2,0.6,1,1.7,2.4,2.7,3.1,3.75,4.8,Benzenoids,Benzene and substituted derivatives,198.58,C4b
+372.1,0.59,1.52,2.99,5.13,6.52,8.06,9.85,11.98,Phenylpropanoids and polyketides,Stilbenes,200.25,Tamoxifen
+422.2,0.55,1.31,2.54,4.21,5.24,6.53,7.83,9.28,Organic oxygen compounds,Organooxygen compounds,200.82,Fenpyroximate
+406.1,0,0.25,0.85,2.13,2.99,3.81,5.51,7.55,Benzenoids,Benzene and substituted derivatives,201.15,Difenoconazole
+429.2,0.4,0.6,1,1.7,2.37,3.3,4.48,5.9,Benzenoids,Benzene and substituted derivatives,201.18,C3b
+493,-0.36,0.28,1.82,3.61,4.48,5.78,7.07,8.59,Benzenoids,Phenol ethers,203.19,Novaluron
+404.1,0.66,1.65,3.14,5.46,7.03,8.77,10.78,13.03,Benzenoids,Benzene and substituted derivatives,203.24,Azoxystrobin
+468.3,0.92,1.42,2.34,3.98,4.98,6.12,7.49,9.13,Benzenoids,Phenanthrenes and derivatives,204.95,Buprenorphine
+475.1,0.25,0.94,2.45,4.57,5.78,7.17,8.71,10.37,Benzenoids,Benzene and substituted derivatives,205.65,Butafenacil
+429.2,0.4,0.9,1.7,2.6,3.31,4.3,5.64,7.4,Benzenoids,Benzene and substituted derivatives,206.32,C3a
+489,0.44,1.07,2.19,3.69,4.61,5.91,7.2,8.8,Benzenoids,Benzene and substituted derivatives,207.59,Flufenoxuron
+528.1,0.6,1.33,2.54,4.47,5.71,6.96,8.49,10.32,Benzenoids,Benzene and substituted derivatives,210.52,Indoxacarb
+531.1,0.8,1.2,1.99,3.37,4.2,5.2,6.48,7.89,Organoheterocyclic compounds,Diazinanes,211.66,Ketoconazole
+459.1,0.55,1.22,2.27,3.83,4.86,6.1,7.35,8.9,Organic oxygen compounds,Organooxygen compounds,212.64,Fluoxastrobin
+507.1,0.56,1.19,2.27,3.76,4.7,5.92,7.14,8.74,Phenylpropanoids and polyketides,Stilbenes,213.05,Metaflumizone
+410.2,0.7,1.3,2.2,3.7,4.62,5.7,7.03,8.7,Benzenoids,Benzene and substituted derivatives,215.77,C5a
+467,1.16,2.16,3.22,5.67,7.69,9.5,11.3,13.87,Organic acids and derivatives,Organic thiophosphoric acids and derivatives,216.23,Temephos
+410.2,0.9,1.1,1.9,3,3.71,4.6,5.71,7.1,Benzenoids,Benzene and substituted derivatives,216.66,C5b
+455.3,1.03,1.97,3.57,6.04,7.66,9.51,10.23,12.5,Benzenoids,Benzene and substituted derivatives,217.97,Verapamil
+540,0.25,0.54,0.98,1.98,2.83,3.89,5.22,6.85,Benzenoids,Benzene and substituted derivatives,221.18,Chlorfluazuron
+477.2,0.76,1.37,2.3,3.76,4.79,5.86,7.17,8.72,Benzenoids,Benzene and substituted derivatives,221.8,Loperamide
+472.3,0.75,1.53,2.77,4.49,5.59,6.84,8.35,9.99,Benzenoids,Benzene and substituted derivatives,231.07,Terfenadine
+495.2,0.43,0.94,1.77,3.02,3.84,4.76,5.83,7.06,Benzenoids,Benzene and substituted derivatives,235.73,Hydramethylnon
