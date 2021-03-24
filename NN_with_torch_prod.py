@@ -203,5 +203,10 @@ def run_NN(input_array,output_array,name_array,out_file_name,filtertype,extfilte
     outputfile.close()
 
 print("starting run")
+# Change the text in the quotation to change the output file name
+# available filter type includes Normal = "N" and Biased = "B"
+# modelsplit refers to the % splitting into test set and train set, setting 1 means no test set and full training set.
+# extsplit refers to the size of the external validation set that will never be included as training data
+# run refers to the number of runs
 run_NN(input_array,output_array,name_array,path + "/Output/Updated 5 layer biased filter 9505 mod_ext with all Training 1500 optimize.csv",filtertype="N",extfilter="B",modelsplit=1,ext_splt=0.95,runs=20)
 
